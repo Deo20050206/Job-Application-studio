@@ -1,0 +1,4 @@
+interface:
+  display_name: "UK Finance Recruiter"
+  short_description: "Tailor UK finance application materials"
+  default_prompt: "Use $uk-finance-recruiter to generate a truthful, ATS-friendly UK finance resume and cover letter from my base documents and a job description."
