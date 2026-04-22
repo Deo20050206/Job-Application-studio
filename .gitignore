@@ -1,0 +1,41 @@
+.DS_Store
+**/.DS_Store
+.playwright-cli/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Private source materials
+inputs/*
+!inputs/README.md
+!inputs/.gitkeep
+
+# Job-specific data
+jobs/*
+!jobs/README.md
+!jobs/.gitkeep
+!jobs/job_intake_template.md
+
+# Generated outputs
+outputs/*
+!outputs/README.md
+!outputs/.gitkeep
+
+# Base document binaries and personal templates
+templates/*
+!templates/README.md
+!templates/.gitkeep
+
+# Temporary working files
+tmp/*
+!tmp/README.md
+!tmp/.gitkeep
+
+# Application tracking data
+tracker/*
+!tracker/README.md
+!tracker/.gitkeep
+
+# Keep custom skill source visible
+skills/.DS_Store
